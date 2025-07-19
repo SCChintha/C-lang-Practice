@@ -292,7 +292,7 @@ printf("invalid");
   */      
 
 /*___do while loop*/
-
+printf("sai kanni");
 return 0;
 
 }
